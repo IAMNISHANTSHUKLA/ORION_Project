@@ -68,7 +68,7 @@ Self-built **payment processing stack** with custom implementations of financial
 
 ---
 
-## ⚙️ Dev Workflow
+##  Dev Workflow
 
 | Task        | Command                                |
 | ----------- | -------------------------------------- |
@@ -93,4 +93,4 @@ orion/
 
 ---
 
-Would you like me to compress this **even further into a 1-page “interview pitch” format** (architecture + key features only, no commands), so you can explain it quickly in under 2 minutes?
+
