@@ -32,7 +32,7 @@ Self-built **payment processing stack** with custom implementations of financial
 
 ---
 
-## 🔧 Services
+##  Services
 
 | Service       | Port | Key API                               |
 | ------------- | ---- | ------------------------------------- |
